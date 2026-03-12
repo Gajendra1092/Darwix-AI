@@ -52,7 +52,7 @@ Year 3: Capture 8-12% of AI market = $3.2-5.4B potential
       → Year 3 Revenue: $25-35M (7-10% penetration)
 
 Year 5: Capture 15-18% of AI market = $6-8.1B potential
-      → Target 10-12% of TAM = $600B-960M potential
+      → Target 10-12% of TAM = $600M-960M potential
       → Year 5 Revenue: $100-150M (12-15% penetration)
 ```
 

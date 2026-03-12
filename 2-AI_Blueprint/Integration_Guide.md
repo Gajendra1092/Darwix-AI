@@ -23,7 +23,7 @@ Your CRM                    Your Chat Widget               Your Email System
                     ┌────────────┴────────────┐
                     │                         │
             [Agent Dashboard]          [Analytics API]
-            (React/Vue.js)             (Data Export)
+            (React)                    (Data Export)
 ```
 
 ---

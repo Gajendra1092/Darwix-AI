@@ -9,9 +9,9 @@ OmniChannelAI is an enterprise-grade AI-powered omnichannel customer support pla
 - **Market Opportunity:** $50-60B serviceable market, growing 18-20% CAGR
 - **Business Model:** $100/agent/month + $0.50/ticket (hybrid pricing)
 - **Target Customer:** VP of Customer Operations, mid-market enterprises with $500K-$5M annual support budget
-- **Payback Period:** 8-12 months
-- **Year 1-5 Financial Projections:** $2.5M → $125M revenue
-- **IRR:** 280% over 5 years
+- **Payback Period:** 17 months
+- **Year 1-5 Financial Projections:** $1.8M → $94.5M revenue
+- **IRR:** 281% over 5 years
 
 ---
 
@@ -212,7 +212,7 @@ Average contract value (ACV):
 | Y4 | 195 | $270K | $52.65M | $4.4M | 109% |
 | Y5 | 315 | $300K | $94.5M | $7.9M | 80% |
 
-**Revenue Breakdown (Time-Weighted):*
+**Revenue Breakdown (Time-Weighted):**
 - Y1: $1.8M (partial year: month 6-12)
 - Y2: $9.5M
 - Y3: $25.2M
